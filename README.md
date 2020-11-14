@@ -1,0 +1,1 @@
+# restrictive-dmarc-record
