@@ -6,7 +6,7 @@ v=DMARC1;p=reject;pct=100;fo=1;adkim=s;aspf=s;rua=mailto:dmarc@example.com;ruf=m
 ```
 ### Explanation:
 
-|tag|required|explanation|example|rationale|
+|Tag|Required|Explanation|Example|Rationale|
 |---|---|---|---|---|
 |v|yes|protocol version|v=DMARC1|required|
 |p|yes|domain policy|p=reject|required|
